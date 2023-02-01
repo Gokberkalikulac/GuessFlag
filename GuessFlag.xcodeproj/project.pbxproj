@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9760123C298AB2D000B56DA8 /* Simulator Screen Shot - iPhone 13 Pro - 2023-02-01 at 17.46.17.png in Resources */ = {isa = PBXBuildFile; fileRef = 9760123A298AB2D000B56DA8 /* Simulator Screen Shot - iPhone 13 Pro - 2023-02-01 at 17.46.17.png */; };
+		9760123D298AB2D000B56DA8 /* Simulator Screen Shot - iPhone 13 Pro - 2023-02-01 at 17.46.08.png in Resources */ = {isa = PBXBuildFile; fileRef = 9760123B298AB2D000B56DA8 /* Simulator Screen Shot - iPhone 13 Pro - 2023-02-01 at 17.46.08.png */; };
 		978F8919298A6AF3001E2F35 /* GuessFlagApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 978F8918298A6AF3001E2F35 /* GuessFlagApp.swift */; };
 		978F891B298A6AF3001E2F35 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 978F891A298A6AF3001E2F35 /* ContentView.swift */; };
 		978F891D298A6AF7001E2F35 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 978F891C298A6AF7001E2F35 /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9760123A298AB2D000B56DA8 /* Simulator Screen Shot - iPhone 13 Pro - 2023-02-01 at 17.46.17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 13 Pro - 2023-02-01 at 17.46.17.png"; sourceTree = "<group>"; };
+		9760123B298AB2D000B56DA8 /* Simulator Screen Shot - iPhone 13 Pro - 2023-02-01 at 17.46.08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 13 Pro - 2023-02-01 at 17.46.08.png"; sourceTree = "<group>"; };
 		978F8915298A6AF3001E2F35 /* GuessFlag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessFlag.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		978F8918298A6AF3001E2F35 /* GuessFlagApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessFlagApp.swift; sourceTree = "<group>"; };
 		978F891A298A6AF3001E2F35 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -32,6 +36,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		97601239298AB28300B56DA8 /* SCREEN SHOTS */ = {
+			isa = PBXGroup;
+			children = (
+				9760123B298AB2D000B56DA8 /* Simulator Screen Shot - iPhone 13 Pro - 2023-02-01 at 17.46.08.png */,
+				9760123A298AB2D000B56DA8 /* Simulator Screen Shot - iPhone 13 Pro - 2023-02-01 at 17.46.17.png */,
+			);
+			path = "SCREEN SHOTS";
+			sourceTree = "<group>";
+		};
 		978F890C298A6AF3001E2F35 = {
 			isa = PBXGroup;
 			children = (
@@ -51,6 +64,7 @@
 		978F8917298A6AF3001E2F35 /* GuessFlag */ = {
 			isa = PBXGroup;
 			children = (
+				97601239298AB28300B56DA8 /* SCREEN SHOTS */,
 				978F8918298A6AF3001E2F35 /* GuessFlagApp.swift */,
 				978F891A298A6AF3001E2F35 /* ContentView.swift */,
 				978F891C298A6AF7001E2F35 /* Assets.xcassets */,
@@ -125,6 +139,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9760123D298AB2D000B56DA8 /* Simulator Screen Shot - iPhone 13 Pro - 2023-02-01 at 17.46.08.png in Resources */,
+				9760123C298AB2D000B56DA8 /* Simulator Screen Shot - iPhone 13 Pro - 2023-02-01 at 17.46.17.png in Resources */,
 				978F8920298A6AF7001E2F35 /* Preview Assets.xcassets in Resources */,
 				978F891D298A6AF7001E2F35 /* Assets.xcassets in Resources */,
 			);
